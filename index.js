@@ -16,6 +16,16 @@ var quizQuestions = [{
   question: 'Where was the second IPL held?',
   options: ['UAE', 'Australia', 'Pakistan', 'South Africa'],
   answer: 'South Africa'
+},
+{
+  question: ' Which team in the IPL has never changed its captain?',
+  options: ['Rajasthan Royals', 'CSK', 'RCB', 'KKR'],
+  answer: 'CSK'
+},
+{
+  question: 'Who was the first Indian IPL player to score a hundred?',
+  options: ['Rohit Sharma', 'Virat Kohli', 'Sachin', 'Manish Pandey'],
+  answer: 'Manish Pandey'
 }
 ];
 
